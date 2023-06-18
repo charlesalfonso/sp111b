@@ -9,5 +9,5 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://github.com/ccc111b/sp/
 
-
+I did not make the code
 Credit : https://www.youtube.com/watch?v=_lFnjXV3tK0&t=12s
